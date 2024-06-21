@@ -1,0 +1,1 @@
+print('script 1 for test')
